@@ -1,0 +1,65 @@
+A Records :
+
+[0] Name : jaipuria.edu.in/lucknowschool/ | ttl: 3600 | ip: 192.124.249.170
+
+------------------
+
+AAAA Records: None
+
+------------------
+
+CNAME Records: None
+
+------------------
+
+MX Records :
+
+[0] Name : jaipuria.edu.in/lucknowschool/ | ttl: 3600 | ip: 64.233.184.26 | mx: ALT2.ASPMX.L.GOOGLE.COM. | preference: 5
+[1] Name : jaipuria.edu.in/lucknowschool/ | ttl: 3600 | ip: 64.233.184.27 | mx: ASPMX3.GOOGLEMAIL.COM. | preference: 10
+[2] Name : jaipuria.edu.in/lucknowschool/ | ttl: 3600 | ip: 209.85.202.26 | mx: ASPMX2.GOOGLEMAIL.COM. | preference: 10
+[3] Name : jaipuria.edu.in/lucknowschool/ | ttl: 3600 | ip: 209.85.202.26 | mx: ALT1.ASPMX.L.GOOGLE.COM. | preference: 5
+[4] Name : jaipuria.edu.in/lucknowschool/ | ttl: 3600 | ip: 142.251.163.26 | mx: ASPMX.L.GOOGLE.COM. | preference: 1
+
+------------------
+
+NS Records :
+
+[0] Name : jaipuria.edu.in/lucknowschool/ | ttl: 3600 | value: ns1.fatcow.com.
+[1] Name : jaipuria.edu.in/lucknowschool/ | ttl: 3600 | value: ns2.fatcow.com.
+
+------------------
+
+PTR Records: None
+
+------------------
+
+SRV Records: None
+
+------------------
+
+SOA Records :
+
+[0] Name : jaipuria.edu.in/lucknowschool/ | ttl: 3600 | mname: ns1.fatcow.com. | rname: dnsadmin.fatcow.com.
+
+------------------
+
+TXT Records :
+
+[0] Name : jaipuria.edu.in/lucknowschool/ | ttl: "3600" | value: "v=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all"
+[1] Name : jaipuria.edu.in/lucknowschool/ | ttl: "3600" | value: "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgY337riOiX7I6yyyLAaBagIlZpMxjaj7ehjazUbRtv4noB0+EU/ehdSP76oukG6A/Kuw4nXfmSTeObfjEOWmIrBIb7cqJHide86zpG23fYWBLL3gF1nlzdaqh9sC6AwBjKTAk4z2Z8+sOIpGmdOrp97joNoBYhMuaUzkRFHAgr/NVerx7IjVSSm0woQMiUXWr MktoxdZshrno/Jkl25QQVJB9RonLhNzXv0NNjMWSfutNq4OQ4sVdpRbGfIs277f8aFo5GbGNtqp6M6m3sXw0IbPOiZXVKtaInkuZpGQfmqLUx+1qRx4apybNkmR0TK1LiGOb3QVKRmRewIqDp3HcQIDAQAB"
+[2] Name : jaipuria.edu.in/lucknowschool/ | ttl: "3600" | value: "v=spf1 include:_spf.google.com ~all"
+
+------------------
+
+CAA Records: None
+
+------------------
+
+DS Records: None
+
+------------------
+
+DNSKEY Records: None
+
+------------------
+
